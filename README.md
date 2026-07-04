@@ -40,7 +40,7 @@
 | VR/AR | Meta Quest 3, Google Cardboard | VR/AR 팀 프로젝트 → 캡스톤 "폴리글롯"(AR 실시간 번역기)으로 2개 XR 플랫폼 동시 개발 |
 | 메타버스 | Unreal Engine | 메타버스 컨셉 프로토타입 제작 시도 |
 | NFT | 블록체인 연동 | 실무에서 NFT 연동 게임의 라이브 서비스 유지보수 담당 |
-| AI | LLM, 이미지 생성 | 유료 구독을 유지하며 **아트 리소스 제작에 직접 적용·연구** → 체감한 한계를 메우는 **부산물로 툴 제작**: [SpriteForge](https://github.com/Bo-sung/SpriteForge)(3D→픽셀아트), [ComfyUI-FBX-ControlNet-Converter](https://github.com/Bo-sung/ComfyUI-FBX-ControlNet-Converter)(3D→ControlNet), [html_to_ugui](https://github.com/Bo-sung/html_to_ugui)(디자인→UGUI), [AgentManager](https://github.com/Bo-sung/AgentManager)(멀티 에이전트 관리) |
+| AI | LLM, 이미지 생성 | 주요 AI 서비스를 종류별로 유료 구독해 비교하고, **로컬 LLM용 장비(NVIDIA DGX Spark)까지 도입**해 **아트 리소스 제작에 직접 적용·연구** → 체감한 한계를 메우는 **부산물로 툴 제작**: [SpriteForge](https://github.com/Bo-sung/SpriteForge)(3D→픽셀아트), [ComfyUI-FBX-ControlNet-Converter](https://github.com/Bo-sung/ComfyUI-FBX-ControlNet-Converter)(3D→ControlNet), [html_to_ugui](https://github.com/Bo-sung/html_to_ugui)(디자인→UGUI), [AgentManager](https://github.com/Bo-sung/AgentManager)(멀티 에이전트 관리) |
 
 ---
 
