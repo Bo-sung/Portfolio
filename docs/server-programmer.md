@@ -175,6 +175,6 @@ GameSession (동적 포트 7010~7200, 독립 프로세스)
 
 - **네트워크**: TCP/UDP 소켓, 커스텀 바이너리 프로토콜 설계, 락스텝/하트비트/ACK 재시도 패턴 구현 경험
 - **DB**: MySQL 스키마 설계·쿼리 최적화, Redis 자료구조 활용(세션/매칭큐/리더보드/PubSub/RateLimiter)
-- **인프라**: Rocky Linux(실무)·CentOS 7 운영, 고교 시절부터 실물 서버(Dell PowerEdge R300)로 게임 서버 자가 운영, 자체 Git 서버 구축
+- **인프라**: Rocky Linux(실무)·CentOS 7 운영, 고교 시절부터 자가 서버 운영 이력(구형 노트북 → Dell PowerEdge R300 → **현재 Mac mini 2대 홈서버**), 자체 Git 서버 구축
 - **운영 감각**: 2년 3개월 라이브 서비스에서 긴급 이슈 대응·핫픽스 배포·QA 협업 경험
 - **신기술 검증 습관**: VR/AR(캡스톤 XR 번역기), NFT(실무 연동 서비스 유지보수), AI(유료 구독 탐구 → [AgentManager](https://github.com/Bo-sung/AgentManager) 등 툴 직접 제작)까지 — 새 기술을 직접 검증한 뒤 실전 투입하는 사이클을 반복해 왔습니다. 서버 분야에서도 새로운 스택을 빠르게 흡수해 검증할 수 있습니다

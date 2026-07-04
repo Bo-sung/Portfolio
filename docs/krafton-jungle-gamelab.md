@@ -124,6 +124,6 @@
 2026  AI 파이프라인 툴 연작     — 개발 생산성 도구로 확장
 ```
 
-- 고등학생 때 마인크래프트 서버 운영을 위해 리눅스 독학 → 현재 실물 서버(Dell PowerEdge R300, CentOS 7) 자가 운영
+- 고등학생 때 마인크래프트 서버 운영을 위해 리눅스 독학 → 이후 실물 서버(Dell PowerEdge R300, CentOS 7)를 거쳐 **현재는 Mac mini 2대로 홈서버 운영 중**
 - 모작 연작으로 역분석 훈련: [Skul: The Hero Slayer](https://github.com/Bo-sung/skullike-project)(2020), [Tricky Towers](https://github.com/Bo-sung/tricky-towers)(2019), [CardFlip](https://github.com/Bo-sung/CardFlip)(2026, 초단기 완성 연습)
 - 서버 학습 연작: [ASPAuthServer](https://github.com/Bo-sung/ASPAuthServer)(인증 서버+GM툴) → [authLobbyGame](https://github.com/Bo-sung/GameServerP_Personal)(3-Tier 분산 설계, 설계 문서 9종)

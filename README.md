@@ -26,7 +26,7 @@
 | **게임 엔진** | Unity (2년 실무), Unreal Engine 5.6 |
 | **서버 / DB** | ASP.NET Core, C# 소켓 서버, Java 백엔드(실무) · MySQL, Redis |
 | **네트워크** | TCP/UDP 소켓 프로그래밍, 커스텀 바이너리 프로토콜 |
-| **인프라** | Rocky Linux(실무), CentOS 7, Git 서버 자체 구축 — 고교 시절부터 실물 서버(Dell PowerEdge R300)로 게임 서버 운영 |
+| **인프라** | Rocky Linux(실무), CentOS 7, Git 서버 자체 구축 — 고교 시절부터 자가 서버 운영 (Dell PowerEdge R300 → 현재는 Mac mini 2대로 홈서버 운영 중) |
 | **플랫폼** | Google Play, App Store, 화웨이 앱갤러리 출시/운영 |
 
 ---
