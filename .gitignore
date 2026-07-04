@@ -60,3 +60,6 @@ CLAUDE.local.md
 node_modules/
 dist/
 build/
+
+# 면접 준비 등 비공개 문서
+private/
