@@ -15,6 +15,7 @@
 - **[게임 서버 프로그래머](docs/server-programmer.md)** — 분산 서버, 락스텝 동기화, 인증/세션 설계 중심
 - **[게임 클라이언트 프로그래머](docs/client-programmer.md)** — 라이브 서비스 실무, UE5/Unity, 게임잼 우승작 중심
 - **[크래프톤 정글 게임랩 지원용](docs/krafton-jungle-gamelab.md)** — 8년 성장 서사와 완주 이력 중심
+- **[유니티 개발자 (SCON 지원용)](docs/scon-unity-developer.md)** — 라이브 출시·운영 + AI 에셋 파이프라인 중심
 
 ---
 
