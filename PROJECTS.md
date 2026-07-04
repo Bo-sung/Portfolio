@@ -178,7 +178,7 @@
   - **전자공학회 논문지 양식으로 작성** (요약/Abstract/서론/방법론/실험/결론/참고문헌 10편) — 기술 문서 작성 역량 증빙 자료
   - 동일 내용을 마크다운(`depthmap_report_template.md`)으로도 관리 — 마크다운 문서화 습관의 또 다른 근거
   - 파일 위치: `G:\HDD_Backup\P_대학교 자료\비 프로그래밍\스테레오 비전 기반 깊이맵 생성 알고리즘 비교 연구*.pdf`
-- [BasicGameEngine_4_teamP](https://github.com/Bo-sung/BasicGameEngine_4_teamP) (약 461MB, C#) — 이력서의 "**Titan Slayer**"(FPS 보스 배틀 게임)로 추정
+- [BasicGameEngine_4_teamP](https://github.com/Bo-sung/BasicGameEngine_4_teamP) (약 461MB, C#) — 이력서의 "**Titan Slayer**"(FPS 보스 배틀 게임)로 추정 · [시연 영상](https://youtu.be/FhHfEcHxENo)
   - 개발 기간 2025.09.29~2025.12.13, 팀 4명(저학년 다수 포함), Unity/C#
   - **역할**: 프로젝트 리드 — 시스템 아키텍처 설계, 일정 관리, 저학년 팀원 기술 지원, 작업 분배, 코드 리뷰, 일정 지연 시 직접 구현
   - **구현**: FPS 캐릭터 제어, 무기(발사/재장전/조준) 시스템, 상태 머신 기반 보스 AI, 히트/데미지/체력 전투 시스템, HUD, 오브젝트 풀링 최적화
@@ -190,7 +190,7 @@
 GitHub이 아닌 Naver Cloud SourceCommit에 있던 저장소로, `G:\testbackup`에 클론하여 진행도(커밋 수·파일 수)를 확인했습니다.
 GitHub에는 없는 저장소이므로, 포트폴리오에 포함하려면 공개 가능한 형태로 별도 저장소를 만들어 이전하는 작업이 필요합니다.
 
-### MechTarkov (PMechTArkov_Origin + DMechTarkov + 로컬 백업 다수) — ⚠️ 포폴 제외 (사용자 결정: 1인 프로젝트 아님, 결과물 미완)
+### MechTarkov (PMechTArkov_Origin + DMechTarkov + 로컬 백업 다수) — ⚠️ 포폴 제외 (사용자 결정: 1인 프로젝트 아님, 결과물 미완) · [시연 영상](https://youtu.be/sDrpmL388Ag)
 - PMechTArkov_Origin — UE5 기반 게임 프로젝트 (8,512개 파일, 약 60GB). 2040년대 한국(경상북도·대구) 배경, 포스트 아포칼립스 세력 갈등을 다루는 **루터 슈터/익스트랙션 슈터**(Escape from Tarkov 계열) + 메카 컨셉. Lyra 프레임워크 기반으로 캐릭터·맵·에셋 다수 포함
 - DMechTarkov — 위 프로젝트의 기획 문서(Obsidian 볼트). 장르 분석, 세계관, 프로젝트 규칙 등 상세 문서화 (49개 파일, 6커밋)
 - **`G:\HDD_Backup\Git`에서 발견된 개발 이력** (2023년부터 이어진 장기 프로젝트임을 확인):

@@ -43,6 +43,7 @@
 | 역할 | **프로젝트 리드** (저학년 다수 팀) |
 | 기술 | Unity, C# |
 | 저장소 | [BasicGameEngine_4_teamP](https://github.com/Bo-sung/BasicGameEngine_4_teamP) |
+| 시연 영상 | [YouTube](https://youtu.be/FhHfEcHxENo) |
 
 - 리드 역할: 전체 아키텍처 설계·모듈 정의, 마일스톤·일정 조율, 팀원 역량별 작업 분배, Unity/코딩 가이드, 코드 리뷰
 - 직접 구현: FPS 캐릭터 제어, 무기(발사/재장전/조준), **상태 머신 기반 보스 AI**, 전투 시스템(히트/데미지/체력), HUD, 오브젝트 풀링 최적화

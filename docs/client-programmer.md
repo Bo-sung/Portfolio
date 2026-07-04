@@ -70,6 +70,7 @@
 | 역할 | **프로젝트 리드** — 시스템 설계, 일정 관리, 기술 지원 |
 | 기술 | Unity, C# |
 | 저장소 | [BasicGameEngine_4_teamP](https://github.com/Bo-sung/BasicGameEngine_4_teamP) |
+| 시연 영상 | [YouTube](https://youtu.be/FhHfEcHxENo) |
 
 대형 보스와의 전투 중심 1인칭 슈팅 게임. 저학년 팀원이 다수인 팀에서 리드를 맡아 기한 내 완성까지 끌고 갔습니다.
 
