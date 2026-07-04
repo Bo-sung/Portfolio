@@ -71,13 +71,13 @@
 
 ## 4. AI 파이프라인 툴 연작 (개인, 2026)
 
-유료 구독으로 AI 활용법을 탐구하다, 필요한 도구를 직접 만드는 단계까지 온 연작입니다.
+프로그래머로서 부족한 아트 리소스를 AI로 보완하려고 직접 시도·연구했고, 그 과정에서 체감한 **현재 AI의 아트 제작 한계들을 하나씩 메우는 부산물**로 만들어진 툴들입니다.
 
 | 툴 | 기능 |
 | --- | --- |
-| [SpriteForge](https://github.com/Bo-sung/SpriteForge) | 리깅된 3D 모델(FBX/GLB) → **픽셀아트 스프라이트 시트** 자동 변환 (OpenGL 렌더링 → 팔레트 양자화 → 시트 패킹, CLI+GUI) |
-| [ComfyUI-FBX-ControlNet-Converter](https://github.com/Bo-sung/ComfyUI-FBX-ControlNet-Converter) | 3D 애니메이션 → **ControlNet 패스**(OpenPose/depth/normal/canny) — 실제 스켈레톤 기반이라 프레임 간 흔들림 없는 AI 영상 생성 |
-| [html_to_ugui](https://github.com/Bo-sung/html_to_ugui) | AI로 뽑은 HTML/CSS UI 시안 → **Unity UGUI 프리팹** 자동 변환, 반복 구조 재사용 프리팹화 |
+| [SpriteForge](https://github.com/Bo-sung/SpriteForge) | 한계: AI 생성 스프라이트는 프레임 간 일관성이 무너짐 → 리깅된 3D 모델(FBX/GLB)을 렌더링해 **픽셀아트 스프라이트 시트**로 변환, 일관성을 구조적으로 보장 |
+| [ComfyUI-FBX-ControlNet-Converter](https://github.com/Bo-sung/ComfyUI-FBX-ControlNet-Converter) | 한계: 생성 영상·포즈가 프레임마다 흔들림 → 실제 스켈레톤 기반 **ControlNet 패스**(OpenPose/depth/normal/canny)로 시간적으로 안정된 생성 |
+| [html_to_ugui](https://github.com/Bo-sung/html_to_ugui) | 한계: AI가 뽑은 UI 시안이 엔진 리소스로 이어지지 않음 → HTML/CSS 시안을 **Unity UGUI 프리팹**으로 자동 변환, 반복 구조 재사용 프리팹화 |
 | [AgentManager](https://github.com/Bo-sung/AgentManager) | 여러 AI 코딩 에이전트를 **git worktree 격리로 병렬 관리**하는 WPF 플랫폼 — 로컬 LLM 번역 레이어, Diff 리뷰, 워커 위임 |
 | [ai-workspace-template](https://github.com/Bo-sung/ai-workspace-template) | 다중 AI 워커 협업 시의 **역할·권한 거버넌스** 템플릿 |
 

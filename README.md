@@ -40,7 +40,7 @@
 | VR/AR | Meta Quest 3, Google Cardboard | VR/AR 팀 프로젝트 → 캡스톤 "폴리글롯"(AR 실시간 번역기)으로 2개 XR 플랫폼 동시 개발 |
 | 메타버스 | Unreal Engine | 메타버스 컨셉 프로토타입 제작 시도 |
 | NFT | 블록체인 연동 | 실무에서 NFT 연동 게임의 라이브 서비스 유지보수 담당 |
-| AI | LLM, 이미지 생성 | 유료 구독을 유지하며 워크플로 탐구 → **필요한 툴을 직접 제작하는 단계로 발전**: [AgentManager](https://github.com/Bo-sung/AgentManager)(멀티 에이전트 관리), [SpriteForge](https://github.com/Bo-sung/SpriteForge)(3D→픽셀아트), [html_to_ugui](https://github.com/Bo-sung/html_to_ugui)(디자인→UGUI), [ComfyUI-FBX-ControlNet-Converter](https://github.com/Bo-sung/ComfyUI-FBX-ControlNet-Converter)(3D→ControlNet) |
+| AI | LLM, 이미지 생성 | 유료 구독을 유지하며 **아트 리소스 제작에 직접 적용·연구** → 체감한 한계를 메우는 **부산물로 툴 제작**: [SpriteForge](https://github.com/Bo-sung/SpriteForge)(3D→픽셀아트), [ComfyUI-FBX-ControlNet-Converter](https://github.com/Bo-sung/ComfyUI-FBX-ControlNet-Converter)(3D→ControlNet), [html_to_ugui](https://github.com/Bo-sung/html_to_ugui)(디자인→UGUI), [AgentManager](https://github.com/Bo-sung/AgentManager)(멀티 에이전트 관리) |
 
 ---
 
@@ -101,7 +101,11 @@ RESTful 설계 원칙을 준수한 인증 서버(회원가입/로그인/세션, 
 
 ### 5. AI 개발 도구 시리즈 (2026)
 
-AI 워크플로를 게임 개발 파이프라인에 접목하는 개인 툴들입니다.
+프로그래머로서 부족한 **아트 리소스를 AI로 보완**하려고 직접 시도·연구하는 과정에서, 현재 AI가 아트 리소스 제작에서 갖는 한계들을 체감했고 — 그 **한계를 하나씩 메우는 과정의 부산물**로 만들어진 툴들입니다.
+
+- 스프라이트 애니메이션의 프레임 일관성 부족 → **SpriteForge** (3D 모델을 렌더링해 변환하므로 일관성 보장)
+- 생성 영상·포즈의 프레임 간 흔들림 → **ComfyUI-FBX-ControlNet-Converter** (실제 스켈레톤 기반 컨디셔닝)
+- AI가 뽑은 UI 시안이 엔진 리소스로 이어지지 않음 → **html_to_ugui** (시안을 UGUI 프리팹으로 직접 변환)
 
 - **[AgentManager](https://github.com/Bo-sung/AgentManager)** — 여러 AI 코딩 에이전트(Claude Code, Codex 등)를 git worktree로 격리해 병렬 관리하는 .NET 10 WPF 플랫폼. 로컬 LLM 번역 레이어로 클라우드 토큰 절감
 - **[SpriteForge](https://github.com/Bo-sung/SpriteForge)** — 리깅된 3D 모델(FBX/GLB)을 픽셀아트 스프라이트 시트로 변환하는 파이프라인 (OpenGL 오프스크린 렌더링 → 팔레트 양자화 → 시트 패킹)
