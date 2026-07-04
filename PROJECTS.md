@@ -189,7 +189,7 @@
 GitHub이 아닌 Naver Cloud SourceCommit에 있던 저장소로, `G:\testbackup`에 클론하여 진행도(커밋 수·파일 수)를 확인했습니다.
 GitHub에는 없는 저장소이므로, 포트폴리오에 포함하려면 공개 가능한 형태로 별도 저장소를 만들어 이전하는 작업이 필요합니다.
 
-### MechTarkov (PMechTArkov_Origin + DMechTarkov + 로컬 백업 다수)
+### MechTarkov (PMechTArkov_Origin + DMechTarkov + 로컬 백업 다수) — ⚠️ 포폴 제외 (사용자 결정: 1인 프로젝트 아님, 결과물 미완)
 - PMechTArkov_Origin — UE5 기반 게임 프로젝트 (8,512개 파일, 약 60GB). 2040년대 한국(경상북도·대구) 배경, 포스트 아포칼립스 세력 갈등을 다루는 **루터 슈터/익스트랙션 슈터**(Escape from Tarkov 계열) + 메카 컨셉. Lyra 프레임워크 기반으로 캐릭터·맵·에셋 다수 포함
 - DMechTarkov — 위 프로젝트의 기획 문서(Obsidian 볼트). 장르 분석, 세계관, 프로젝트 규칙 등 상세 문서화 (49개 파일, 6커밋)
 - **`G:\HDD_Backup\Git`에서 발견된 개발 이력** (2023년부터 이어진 장기 프로젝트임을 확인):
