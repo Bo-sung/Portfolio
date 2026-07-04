@@ -1,0 +1,62 @@
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# =========================
+# Editor / IDE
+# =========================
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.swp
+*.swo
+*~
+
+# =========================
+# AI tool caches / configs
+# =========================
+.claude/
+.cursor/
+.windsurf/
+.aider*
+.copilot/
+.github/copilot/
+.continue/
+CLAUDE.local.md
+*.claude-cache
+
+# =========================
+# Logs / temp
+# =========================
+*.log
+*.tmp
+*.bak
+*.old
+~$*
+
+# =========================
+# Environment / secrets
+# =========================
+.env
+.env.*
+*.pem
+*.key
+
+# =========================
+# Archives / node (혹시 예시 코드 포함 시)
+# =========================
+node_modules/
+dist/
+build/
