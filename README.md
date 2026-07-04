@@ -17,6 +17,7 @@
 - **[크래프톤 정글 게임랩 지원용](docs/krafton-jungle-gamelab.md)** — 8년 성장 서사와 완주 이력 중심
 - **[유니티 개발자 (SCON 지원용)](docs/scon-unity-developer.md)** — 라이브 출시·운영 + AI 에셋 파이프라인 중심
 - **[게임 프레임워크 프로그래머 (데브캣 지원용)](docs/MM_portfolio_seoboseong.md)** — 코드 리딩 가이드 + 개발 철학 중심
+- **[게임 클라이언트 개발자 (기어투더블유 지원용)](docs/gear2w-unity-client.md)** — 라이브 콘텐츠 파이프라인 + SDK 대응 + 연출 중심
 
 ---
 
